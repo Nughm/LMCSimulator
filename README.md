@@ -1,3 +1,6 @@
+IMPORTANT: I haven't maintained the project in years and last I checked, the Github pages is no longer functional
+
+
 Little Man Computer simulator that uses the basic LMC instruction set (LDA, STA, ADD, SUB, BRA, etc...) with registers displayed.
 
 HOW TO RUN CODE:
